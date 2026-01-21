@@ -3,7 +3,7 @@ message: "If you use GBasis in your research, please cite the following paper."
 title: "GBasis"
 type: software
 url: "https://github.com/theochem/gbasis"
-license: "BSD-3-Clause"
+license: "LGPL-3.0"
 preferred-citation:
   type: article
   title: "GBasis: A Python Library for Evaluating Functions, Functionals, and Integrals Expressed with Gaussian Basis Functions."
