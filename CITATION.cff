@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use GBasis in your research, please cite the following paper."
+title: "GBasis"
+type: software
+url: "https://github.com/theochem/gbasis"
+license: "LGPL-3.0"
+preferred-citation:
+  type: article
+  title: "GBasis: A Python Library for Evaluating Functions, Functionals, and Integrals Expressed with Gaussian Basis Functions."
+  authors:
+    - family-names: Kim
+      given-names: Taejin D.
+    - family-names: Pujal
+      given-names: Leila
+    - family-names: Richer
+      given-names: Michelle
+    - family-names: van Zyl
+      given-names: Max
+    - family-names: Martínez-González
+      given-names: Marco
+    - family-names: Tehrani
+      given-names: Amir
+    - family-names: Chuiko
+      given-names: Vladislav
+    - family-names: Sánchez-Díaz
+      given-names: Gabriel
+    - family-names: Sanchez
+      given-names: William
+    - family-names: Adams
+      given-names: William
+    - family-names: Huang
+      given-names: X.
+    - family-names: Kelly
+      given-names: Brian D.
+    - family-names: Vöhringer-Martinez
+      given-names: Esteban
+    - family-names: Verstraelen
+      given-names: Toon
+    - family-names: Heidar-Zadeh
+      given-names: Farnaz
+    - family-names: Ayers
+      given-names: Paul W.
+  journal: "The Journal of Chemical Physics"
+  volume: 161
+  issue: 4
+  pages: 042503
+  year: 2024
+  doi: "10.1063/5.0216776"
